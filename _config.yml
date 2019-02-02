@@ -5,9 +5,9 @@ header-img: img/post-bg-desk.jpg
 email: wufeifan93@gmail.com
 description: "这里是Feifan的思想世界"
 keyword: "FF Firefan Html css javascript 前端"
-url: "https://Firefan.github.io"          # your host, for absolute URL
+url: "https://firefan.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/Firefan/Firefan.github.io.git" # you code repository
+github_repo: "https://github.com/Firefan/firefan.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
